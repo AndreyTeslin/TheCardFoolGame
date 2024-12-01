@@ -1,0 +1,343 @@
+﻿  CardGame.cpp
+C:\C++\TheCardFoolGame\CardGame.cpp(27,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(27,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(34,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(34,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(73,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(73,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(78,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(78,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(133,18): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(141,21): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(270,21): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(361,74): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(361,74): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(361,74): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(361,74): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(361,74): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(361,74): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(361,74): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(361,74): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(361,74): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(361,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(361,62): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(361,62): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(361,62): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(361,62): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(361,62): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(361,62): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(361,62): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(361,62): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(370,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(370,78): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(370,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(370,78): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(370,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(370,78): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(370,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(370,78): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(370,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(370,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(370,66): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(370,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(370,66): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(370,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(370,66): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(370,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(370,66): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(370,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(381,76): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(381,76): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(381,76): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(381,76): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(381,76): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(381,76): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(381,76): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(381,76): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(381,76): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(381,64): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(381,64): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(381,64): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(381,64): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(381,64): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(381,64): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(381,64): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(381,64): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(381,64): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(396,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(396,78): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(396,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(396,78): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(396,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(396,78): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(396,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(396,78): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(396,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(396,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(396,66): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(396,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(396,66): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(396,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(396,66): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(396,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(396,66): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(396,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(404,76): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(404,76): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(404,76): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(404,76): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(404,76): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(404,76): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(404,76): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(404,76): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(404,76): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(404,64): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(404,64): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(404,64): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(404,64): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(404,64): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(404,64): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(404,64): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(404,64): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(404,64): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(426,74): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(426,74): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(426,74): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(426,74): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(426,74): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(426,74): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(426,74): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(426,74): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(426,74): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(426,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(426,62): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(426,62): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(426,62): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(426,62): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(426,62): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(426,62): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(426,62): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(426,62): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(435,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(435,78): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(435,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(435,78): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(435,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(435,78): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(435,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(435,78): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(435,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(435,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(435,66): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(435,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(435,66): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(435,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(435,66): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(435,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(435,66): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(435,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(446,76): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(446,76): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(446,76): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(446,76): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(446,76): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(446,76): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(446,76): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(446,76): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(446,76): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(446,64): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(446,64): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(446,64): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(446,64): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(446,64): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(446,64): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(446,64): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(446,64): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(446,64): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(461,74): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(461,74): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(461,74): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(461,74): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(461,74): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(461,74): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(461,74): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(461,74): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(461,74): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(461,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(461,62): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(461,62): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(461,62): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(461,62): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(461,62): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(461,62): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(461,62): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(461,62): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(465,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(465,78): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(465,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(465,78): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(465,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(465,78): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(465,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(465,78): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(465,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(465,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(465,66): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(465,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(465,66): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(465,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(465,66): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(465,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(465,66): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(465,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(475,77): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(475,77): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(475,77): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(475,77): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(475,77): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(475,77): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(475,77): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(475,77): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(475,77): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(475,65): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(475,65): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(475,65): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(475,65): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(475,65): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(475,65): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(475,65): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(475,65): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(475,65): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(500,74): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(500,74): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(500,74): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(500,74): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(500,74): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(500,74): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(500,74): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(500,74): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(500,74): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(500,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(500,62): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(500,62): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(500,62): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(500,62): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(500,62): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(500,62): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(500,62): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(500,62): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(509,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(509,78): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(509,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(509,78): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(509,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(509,78): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(509,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(509,78): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(509,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(509,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(509,66): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(509,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(509,66): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(509,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(509,66): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(509,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(509,66): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(509,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(520,76): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(520,76): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(520,76): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(520,76): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(520,76): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(520,76): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(520,76): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(520,76): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(520,76): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(520,64): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(520,64): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(520,64): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(520,64): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(520,64): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(520,64): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(520,64): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(520,64): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(520,64): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(535,74): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(535,74): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(535,74): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(535,74): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(535,74): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(535,74): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(535,74): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(535,74): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(535,74): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(535,62): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(535,62): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(535,62): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(535,62): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(535,62): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(535,62): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(535,62): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(535,62): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(535,62): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(540,78): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(540,78): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(540,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(540,78): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(540,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(540,78): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(540,78): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(540,78): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(540,78): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(540,66): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(540,66): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(540,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(540,66): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(540,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(540,66): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(540,66): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(540,66): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(540,66): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(548,76): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(548,76): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(548,76): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(548,76): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(548,76): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(548,76): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(548,76): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(548,76): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(548,76): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(548,64): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(548,64): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(548,64): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(548,64): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(548,64): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(548,64): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(548,64): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(548,64): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(548,64): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(555,123): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(555,123): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(555,123): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(555,123): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(555,123): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(555,123): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(555,123): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(555,123): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(555,123): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(555,111): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(555,111): warning C4244:         with
+C:\C++\TheCardFoolGame\CardGame.cpp(555,111): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(555,111): warning C4244:             T=int
+C:\C++\TheCardFoolGame\CardGame.cpp(555,111): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(555,111): warning C4244:         and
+C:\C++\TheCardFoolGame\CardGame.cpp(555,111): warning C4244:         [
+C:\C++\TheCardFoolGame\CardGame.cpp(555,111): warning C4244:             T=float
+C:\C++\TheCardFoolGame\CardGame.cpp(555,111): warning C4244:         ]
+C:\C++\TheCardFoolGame\CardGame.cpp(860,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(860,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\C++\TheCardFoolGame\CardGame.cpp(713,1): warning C4715: Computer::OpponentAction: значение возвращается не при всех путях выполнения
+C:\C++\TheCardFoolGame\CardGame.cpp(597,1): warning C4715: Player::ChoosingCard: значение возвращается не при всех путях выполнения
+C:\C++\TheCardFoolGame\CardGame.cpp(1293,1): warning C4715: menu: значение возвращается не при всех путях выполнения
+C:\C++\TheCardFoolGame\CardGame.cpp(1243,1): warning C4715: Game::Play: значение возвращается не при всех путях выполнения
+  TheCardFoolGame.vcxproj -> C:\C++\TheCardFoolGame\x64\Debug\TheCardFoolGame.exe
